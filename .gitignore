@@ -163,5 +163,4 @@ pip-log.txt
 .DS_Store
 
 #Exclude backup files
-system/backup/DefaultEngine.ini
-system/backup/DefaultGame.ini
+system/backup/
